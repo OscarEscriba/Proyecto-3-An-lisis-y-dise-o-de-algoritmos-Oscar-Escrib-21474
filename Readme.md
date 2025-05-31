@@ -1,7 +1,7 @@
 # Reporte del Proyecto 3 - Análisis y Diseño de Algoritmos
 ## Autor: Oscar Escriba
 ## Curso: Análisis y Diseño de Algoritmos
-## Profesor: Gabriel Brolo
+## Profesor: Bidkar Pojoy
 
 ### Enlaces requeridos
 - Repositorio privado: [Incluir enlace a GitHub]
